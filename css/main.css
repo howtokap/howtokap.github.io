@@ -2,6 +2,13 @@ body {
     margin: 60px auto;
     width: 70%;
 }
+.header {
+    background-color: blue;
+}
+.header h1 {
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
