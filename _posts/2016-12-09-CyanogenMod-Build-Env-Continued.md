@@ -34,7 +34,7 @@ mkdir -p ~/bin
 mkdir -p ~/android/system
 ```
 
-## Install ```repo``` command
+## Install repo and initialize repository
 
 ```bash
 curl https://storage.googleapis.com/git-repo-downloads/repo > ~/bin/repo
@@ -43,6 +43,30 @@ chmod a+x ~/bin/repo
 
 ~/bin should already be in path but need to start a new shell to get it.
 
+Now initialize Cyanogenmod Source repository
+
+```bash
+$ cd ~/android/system/
+$ repo init -u https://github.com/CyanogenMod/android.git -b cm-12.1
+```
+
+Note the cm-12.1.  Instructions said cm-13 but the site says 12.1 is latest build supported on jem.
+
+And finally...
+
+```bash
+$ repo sync
+```
+
+Started at 2:15pm...
+Done by 4:30.
+
+## Next step:
+
+Still on this page: https://wiki.cyanogenmod.org/w/Build_for_jem
+
+In Prepare the device-specific code section.
+(envsetup and breakfast coming up.)
 
 
 
