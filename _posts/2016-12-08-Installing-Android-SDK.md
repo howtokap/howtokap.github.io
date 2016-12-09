@@ -10,7 +10,7 @@ following instructions from here:
 
 https://wiki.cyanogenmod.org/w/Build_for_jem
 
-# Android SDK Installation
+## Android SDK Installation
 
 First step is installing the [Android SDK](https://wiki.cyanogenmod.org/w/Doc:_sdk_intro)
 
