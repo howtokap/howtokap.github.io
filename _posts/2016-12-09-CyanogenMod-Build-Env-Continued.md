@@ -68,6 +68,11 @@ Still on this page: https://wiki.cyanogenmod.org/w/Build_for_jem
 In Prepare the device-specific code section.
 (envsetup and breakfast coming up.)
 
+Ran those.  Had errors in breakfast so will take the advice in the note
+from that page: Do next step to read out Blobs from device, then repeat
+breakfast step.
+
+
 
 
 
