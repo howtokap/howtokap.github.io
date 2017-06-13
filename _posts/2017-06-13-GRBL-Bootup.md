@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "GRBL Bootup"
-date: 2016-06-13            
+date: 2017-06-13            
 ---
+
+## WTF
 
 Progress report from yesterday: The RAMPS 1.4 Kit arrived in the mail,
 including an Arduino Mega and 5 A4899 stepper drivers.  To get it
