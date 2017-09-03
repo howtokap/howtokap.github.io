@@ -28,5 +28,18 @@ This is frustrating.  I can't move forward until this is fixed.
 (I'll have to get the logic analyzer from the office to figure out
 what's going on, I guess.)
 
+## Resolution
+
+Using the logic analyzer I discovered that instead of 115200, the
+target was using 75k baud.  That led to finding a setting in the
+project configuration for the external crystal.  It was set as 40MHz
+but should have been 26.  So that accounted for the discrepancy.
+
+With that corrected, the master branch of esp-idf runs well.  And the
+hack I added to separate CRLF processing for input and output isn't
+necessary anymore with the updated ESP-IDF.
+
+So the baseline software seems to be all working now.  It's ready to
+make forward progress again.
 
 
