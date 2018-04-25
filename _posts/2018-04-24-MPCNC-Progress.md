@@ -62,6 +62,16 @@ I'll just go with it.
 
 All of these dimensions should be easy enough to change if necessary.
 
+Actually, I'll round the dimensions up to the nearest inch when
+cutting the conduit.  So:
+
+| Piece  | Num | Working Width | Calculated Len | Conduit Len |
+| ------ | --: |-------------: | -------------: | ----------: |
+| X-Axis | 3   | 18            | 28.4           | 29          |
+| Y-Axis | 3   | 12            | 22.4           | 23          |
+| Z-Axis | 2   | 4             | 11.5           | 12          |
+| Legs   | 4   |               | 3.5            | 4           |
+
 ## Table
 
 It would be nice to source some T-slotted plate to make the table
