@@ -10,7 +10,7 @@ The MPCNC build is going forward.  Here's what's happening.
 
 ## Spindle
 
-purchased.
+Purchased Makita RT0701.
 
 ## Conduit
 
@@ -20,7 +20,7 @@ especially if I make the machine smaller.
 
 ## Parts Bundle
 
-That's been purchased and received.
+Purchased and received.  I got the RAMBo Dual Firmware & wire kit version.
 
 ## 3D Printed Fittings.
 
@@ -39,10 +39,10 @@ then cut the conduit.
 
 ## Dimensions
 
-For aluminum, the site recommends a small size.
-And if I'm cutting mainly aluminum angle stock, I only need about 3
-inches of travel in the Y dimension.  But it seems that would be too
-restrictive for other uses.  I'm thinking 12" would be better.
+For cutting aluminum, the site recommends a small size.  And if I'm
+cutting mainly aluminum angle stock, I only need about 3 inches of
+travel in the Y dimension.  But it seems that would be too restrictive
+for other uses.  I'm thinking 12" would be better.
 
 In the X dimension, I don't think any single piece of a KAP rig will
 be longer than about 9 inches.  It would be nice to set up the machine
@@ -55,10 +55,10 @@ references a 24"x24" machine that worked with aluminum so 12x18 should
 be good.  (I'm not sure that was made with conduit or stainless steel
 tube, though.)
 
-qThe other recommendation for working with alumimum is
-keeping the legs short so the work plane is close to the frame.  I'm
-going to go with 4" initially at least.  That's the default in the cut
-calculator so I'll just go with it.
+The other recommendation for working with alumimum is keeping the legs
+short so the work plane is close to the frame.  I'm going to go with
+4" initially at least.  That's the default in the cut calculator so
+I'll just go with it.
 
 All of these dimensions should be easy enough to change if necessary.
 
